@@ -18,7 +18,6 @@ Hello World Repository
 ## Description
 This project was created as part of the BAIS 3050 Professional Preparation course. 
 The purpose of this repository is to practice using GitHub, creating a repository, and formatting a README.md file using Markdown. 
-This project serves as an introduction to documenting projects and organizing files on GitHub.
 
 ---
 
@@ -37,7 +36,7 @@ All content can be viewed directly in the browser.
 ## Files Used
 - **README.md** – Contains the project description and documentation written in Markdown.
 
-No external data files or program files were used for this project.
+No external data or program files were used for this project.
 
 ---
 
