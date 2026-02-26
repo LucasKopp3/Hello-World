@@ -1,25 +1,52 @@
-# Hello-World Repository
+# Hello World Repository
+
+## Table of Contents
+- Project Title
+- Description
+- How to Run Program
+- Files Used
+- Additional Documentation
+- Versioning
+
+---
 
 ## Project Title
-Hello-World GitHub Practice Project
+Hello World Repository
+
+---
 
 ## Description
-This project was created to practice creating a repository and editing a README.md file using Markdown formatting. It demonstrates basic GitHub functionality and proper documentation structure.
+This project was created as part of the BAIS 3050 Professional Preparation course. 
+The purpose of this repository is to practice using GitHub, creating a repository, and formatting a README.md file using Markdown. 
+This project serves as an introduction to documenting projects and organizing files on GitHub.
 
-## Tools Used
-- GitHub
-- Markdown
-- Web Browser
-
-## Files Used
-- README.md
+---
 
 ## How to Run Program
-1. Navigate to the Hello-World repository on GitHub.
-2. Open the README.md file.
-3. Review the contents.
+There is no program to run for this project.
 
-No additional software or installation is required.
+To view the project:
+1. Open the repository on GitHub.
+2. Click on the README.md file.
+3. Review the project documentation.
 
-## Additional Information
-This repository was created as part of the BAIS:3050 Professional Preparation course to build familiarity with version control and documentation practices.
+All content can be viewed directly in the browser.
+
+---
+
+## Files Used
+- **README.md** – Contains the project description and documentation written in Markdown.
+
+No external data files or program files were used for this project.
+
+---
+
+## Additional Documentation
+No additional documentation at this time.
+
+
+---
+
+## Versioning
+Version 1.0  
+This is the initial version of the repository. 
